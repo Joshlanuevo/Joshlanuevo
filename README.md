@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
 ![JS](https://img.shields.io/badge/-JS-e34f26?logo=html5&logoColor=fff)
 ![REACT](https://img.shields.io/badge/-REACT-e34f26?logo=html5&logoColor=fff)
-![NODE](https://img.shields.io/badge/-NODE-e34f26?logo=html5&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MONGODB-e34f26?logo=html5&logoColor=fff)
+![NODE](https://img.shields.io/badge/-NODEJS-e34f26?logo=html5&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
