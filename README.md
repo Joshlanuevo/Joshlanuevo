@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical)
 
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![JS](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![REACT](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![NODE](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
+![JS](https://img.shields.io/badge/-JS-e34f26?logo=html5&logoColor=fff)
+![REACT](https://img.shields.io/badge/-REACT-e34f26?logo=html5&logoColor=fff)
+![NODE](https://img.shields.io/badge/-NODE-e34f26?logo=html5&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MONGODB-e34f26?logo=html5&logoColor=fff)
