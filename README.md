@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username={Joshlanuevo})
+![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?Joshlanuevo={Joshlanuevo})
 
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
