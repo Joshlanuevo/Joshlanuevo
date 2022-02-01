@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![VS CODE](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/-Google_chrome-4285F4?logo=Google-chrome&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![MY LAPTOP](https://img.shields.io/badge/-cer%20laptop-83B81A?logo=acer&logoColor=white)
+![MY LAPTOP](https://img.shields.io/badge/-Acer%20laptop-83B81A?logo=acer&logoColor=white)
 
