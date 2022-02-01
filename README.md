@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![NODE](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/-MySQL-005C84?logo=mysql&logoColor=white)
 ![FIREBASE](https://img.shields.io/badge/-firebase-ffca28?logo=firebase&logoColor=black)
 ![VS CODE](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/-Google_chrome-4285F4?logo=Google-chrome&logoColor=white)
