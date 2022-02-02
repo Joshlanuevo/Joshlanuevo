@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshlanuevo)
+<!-- ![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshlanuevo)
 
 ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ![VS CODE](https://img.shields.io/badge/-Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![GOOGLE](https://img.shields.io/badge/-Google_chrome-4285F4?logo=Google-chrome&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
-![MY LAPTOP](https://img.shields.io/badge/-Acer%20laptop-83B81A?logo=acer&logoColor=white)
+![MY LAPTOP](https://img.shields.io/badge/-Acer%20laptop-83B81A?logo=acer&logoColor=white) -->
 
