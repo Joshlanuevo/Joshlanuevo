@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!-- ![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshlanuevo)
+![Languages using](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshlanuevo)
 
-![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+<!-- ![HTML](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-e34f26?logo=html5&logoColor=fff)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![MATERIAL UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
